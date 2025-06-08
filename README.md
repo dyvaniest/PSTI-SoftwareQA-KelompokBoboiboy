@@ -20,3 +20,5 @@
 📙 Dokumen Test Case: https://docs.google.com/spreadsheets/d/1BRjayyDmTPi4EdZ45Yg3JSTFN0Mq1Yqe/edit?usp=drive_link&ouid=109125340740062924250&rtpof=true&sd=true
 
 📔 Dokumen Laporan Akhir: https://drive.google.com/file/d/1ZXUzV8_N9NX2MFtufP7sk_xhmwW0ovcE/view?usp=drive_link
+
+📹 Video Presentasi: https://drive.google.com/file/d/1LTv_TFD2rpU85iriw9jhtJBvyN2CTLUV/view?usp=drive_link
